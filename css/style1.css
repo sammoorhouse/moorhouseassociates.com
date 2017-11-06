@@ -71,19 +71,19 @@
 }
 .cb-slideshow li:nth-child(4) span { 
     background-image: url(https://ucarecdn.com/0493b4b6-94e2-4940-a29e-5b3ed966889a/-/resize/1500x/5.jpg);
+    -webkit-animation-delay: 18s;
+    -moz-animation-delay: 18s;
+    -o-animation-delay: 18s;
+    -ms-animation-delay: 18s;
+    animation-delay: 18s; 
+}
+.cb-slideshow li:nth-child(5) span { 
+    background-image: url(https://ucarecdn.com/8ed82ddc-c484-46b4-9a13-65899a3f7027/-/resize/1500x/5.jpg);
     -webkit-animation-delay: 24s;
     -moz-animation-delay: 24s;
     -o-animation-delay: 24s;
     -ms-animation-delay: 24s;
     animation-delay: 24s; 
-}
-.cb-slideshow li:nth-child(5) span { 
-    background-image: url(https://ucarecdn.com/8ed82ddc-c484-46b4-9a13-65899a3f7027/-/resize/1500x/5.jpg);
-    -webkit-animation-delay: 30s;
-    -moz-animation-delay: 30s;
-    -o-animation-delay: 30s;
-    -ms-animation-delay: 30s;
-    animation-delay: 30s; 
 }
 .cb-slideshow li:nth-child(2) div { 
     -webkit-animation-delay: 6s;
